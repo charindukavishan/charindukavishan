@@ -1,4 +1,4 @@
-
+# Hi, Charindu Kavishan 👋
 
 - 🌱 I’m currently studying for a degree of B.Sc(hons) in Information Technology in University of Moratuwa🏫
 - 👯 I’m looking to collaborate Java, Angular or Machine Learning related projects
